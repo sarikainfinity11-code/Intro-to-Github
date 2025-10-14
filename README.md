@@ -1,6 +1,7 @@
 # Repository Title
 ***
 <img width="480" height="270" alt="Sample Image" src="https://github.com/user-attachments/assets/9bbd81a2-700e-4d3b-9923-6df380f326ca" />
+<img width="395" height="128" alt="SACS Meharry Image-2" src="https://github.com/user-attachments/assets/28c56546-390d-44c7-abfa-ac4502b36cac" />
 
 # Introduction
 #### Disclaimer
